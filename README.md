@@ -16,8 +16,6 @@ Forecast for next 30 days.
 Collection of Dataset
 For this project, we will be using the Yfinance library to get the data, which makes it easy to process.
 
-We collected data from 1-Jan-2015 to 28-Feb-2023.
-
-But also you can download data from ‘Yahoo! Finance’ website. You can use Below link.
+ you can download data from ‘Yahoo! Finance’ website. You can use Below link.
 
 https://finance.yahoo.com/quote/RELIANCE.NS/history?p=RELIANCE.NS
