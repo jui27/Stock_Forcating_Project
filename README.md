@@ -3,7 +3,7 @@ Reliance Industries Stock Analysis and Forecasting
 Business Objective
 Predict the Reliance Industries Stock Price for the next 30 days.
 
-There are Open, High, Low and Close prices that you need to obtain from the web for each day starting from 2015 to 2022 for Reliance Industries stock.
+There are Open, High, Low and Close prices that you need to obtain from the web for each day starting from 2000 to 2023 for Reliance Industries stock.
 
 Split the last year into a test set- to build a model to predict stock price.
 
