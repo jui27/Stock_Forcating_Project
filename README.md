@@ -1,1 +1,1 @@
-# Stock_Forcating_Project
+# Stock_Forecasting_Project
